@@ -1,6 +1,6 @@
 ##
   <div align="center">
-      <img alt="my_logo" width="160" height="160" src="my_logo.gif"/>
+      <img alt="my_logo" width="480" height="240" src="my_logo.gif"/>
   </div>
 
 ##
