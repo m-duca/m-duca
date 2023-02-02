@@ -9,7 +9,7 @@
 ##
 <div align= "center" style="display: inline_block">
     <img alt="unity-icon" width="80" height="80" src="https://files.rubixdev.de/logos/unity.svg"/>
-     <img alt="gamemaker-icon" width="80" height="80" src="https://en.wikipedia.org/wiki/File:GameMaker_Logo.svg"/>
+     <img alt="construct-icon" width="70" height="70" src="construct_logo.png"/>
     <img alt="godot-icon" width="80" heigtht="80" src="https://godotengine.org/assets/press/icon_color.svg"/>
     
 </div>
