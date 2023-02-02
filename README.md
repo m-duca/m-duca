@@ -12,6 +12,7 @@
     <img alt="gamemaker-icon" width="80" height="80" src="gamemaker.png"/>
     <img alt="construct-icon" width="70" height="70" src="construct_logo.png"/>
     <img alt="godot-icon" width="80" heigtht="80" src="https://godotengine.org/assets/press/icon_color.svg"/>
+    <img alt="renpy-icon" width="55" heigtht="55" src="renpy_logo.png"/>
 </div>
 
 ##
