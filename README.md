@@ -1,6 +1,6 @@
 ##
   <div align="center">
-      <img alt="logo" width="580" height="250" src="logo.gif"/>
+      <img alt="my_logo" width="580" height="250" src="my_logo.gif"/>
       <h2>Matheus Santos Duca - Game Programmer</h2>
   </div>
 
