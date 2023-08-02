@@ -31,5 +31,5 @@
 
 ##
 <div align = "center">
-  <h3>Hi! Below you can see some of the projects that I developed during my journey into game development.</h3>
+  <h3>Hi! Below you can see some of the projects that I developed in my currently journey through game development.</h3>
 </div>
