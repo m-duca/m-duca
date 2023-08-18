@@ -15,7 +15,7 @@
 
 ---
 <div align="left">
-	<img alt="bar-links" width="400" height="84" src="Assets/Bars/bar_link.png"/>
+	<img alt="bar-links" width="400" height="84" src="Assets/Bars/bar_links.png"/>
 </div>
 
 <div> 
