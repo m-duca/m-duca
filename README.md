@@ -2,7 +2,7 @@
 **`(Desenvolvedor de Jogos // Game Programmer)`**
 <div align="center">
       <img alt="banner" width="496" height="205" src="Assets/banner.gif"/>
-	  <img alt="bar-links" src="Assets/bar_links.png"/>
+	  <img alt="bar-links" src="Assets/Bars/bar_links.png"/>
   </div>
 
 <details>
