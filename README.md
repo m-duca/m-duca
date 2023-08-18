@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
       <img alt="banner" width="496" height="205" src="Assets/banner.gif"/>
   </div>
 **`(Desenvolvedor de Jogos // Game Programmer)`**
