@@ -1,6 +1,6 @@
 ### 🖥️ Matheus Santos Duca // SKTheu
 **`(Desenvolvedor de Jogos // Game Programmer)`**
-<div align="center">
+<div align="right">
       <img alt="banner" width="496" height="205" src="Assets/banner.gif"/>
   </div>
 
