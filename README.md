@@ -1,6 +1,6 @@
 **`(Desenvolvedor de Jogos // Game Programmer)`**
 <div align="center">
-      <img alt="banner" width="496" height="205" src="Assets/banner.gif"/>
+      <img alt="banner" width="496" height="205" src="gifs/banner.gif"/>
   </div>
 
 <details>
