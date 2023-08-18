@@ -1,7 +1,7 @@
-## 🖥️ Prototyping... Debugging... Tweaking...
+## 🖥️ Matheus Santos Duca // SKTheu
 **`(Desenvolvedor de Jogos // Game Programmer)`**
 <div align="center">
-      <img alt="banner" width="580" height="250" src="Assets/banner.gif"/>
+      <img alt="banner" width="496" height="205" src="Assets/banner.gif"/>
   </div>
 
 <details>
