@@ -20,13 +20,13 @@
 </div>
 
 ### 🧰 Engines & Tools:
-<div align= "center" style="display: inline_block">
-    <img alt="unreal-icon" width="80" height="80" src="unreal_5_logo.png"/>
-    <img alt="unity-icon" width="80" height="80" src="https://files.rubixdev.de/logos/unity.svg"/>
-    <img alt="gamemaker-icon" width="80" height="80" src="gamemaker_logo.png"/>
-    <img alt="construct-icon" width="70" height="70" src="construct_logo.png"/>
-    <img alt="godot-icon" width="80" heigtht="80" src="https://godotengine.org/assets/press/icon_color.svg"/>
-    <img alt="renpy-icon" width="55" heigtht="55" src="renpy_logo.png"/>
+<div align= "left" style="display: inline_block">
+    <img alt="unreal-icon" width="50" height="50" src="unreal_5_logo.png"/>
+    <img alt="unity-icon" width="50" height="50" src="https://files.rubixdev.de/logos/unity.svg"/>
+    <img alt="gamemaker-icon" width="50" height="50" src="gamemaker_logo.png"/>
+    <img alt="construct-icon" width="40" height="40" src="construct_logo.png"/>
+    <img alt="godot-icon" width="50" heigtht="50" src="https://godotengine.org/assets/press/icon_color.svg"/>
+    <img alt="renpy-icon" width="30" heigtht="30" src="renpy_logo.png"/>
 </div>
 
 ### 🧠 Languages:
