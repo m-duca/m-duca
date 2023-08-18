@@ -1,5 +1,8 @@
 ## 🖥️ Prototyping... Debugging... Tweaking...
 **`(Desenvolvedor de Jogos // Game Programmer)`**
+<div align="center">
+      <img alt="banner" width="580" height="250" src="Assets/banner.gif"/>
+  </div>
 
 <details>
  <summary><h3></h3></summary>
