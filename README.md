@@ -21,6 +21,6 @@
 
 ##
 <div align = "center">
-    <h3>Hey, how’s it going? I’m Duca — a Game Developer with 1 Year of Experience in Commercial Projects, currently focused on Unity (2D / 3D) and C#, and ready to help you with your next project!</h3>
-    <h3>Below you can see some of the projects that I developed in my currently journey.</h3>
+    <p>Hey, how’s it going? I’m Duca — a Game Developer with 1 Year of Experience in Commercial Projects, currently focused on Unity (2D / 3D) and C#, and ready to help you with your next project!<p>
+    <h3>🔻Below you can see some codes of the projects that I developed in my currently journey🔻</h3>
 </div>
