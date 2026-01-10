@@ -1,26 +1,49 @@
-##
-  <div align="center">
-      <img alt="my_logo" width="320" height="320" src="gifs/banner-logo.gif"/>
-  </div>
+<div align="center">
+  <img alt="Duca Logo" width="320" src="gifs/banner-logo.gif"/>
 
-<div align= "center" style="display: inline_block">
-    <img alt="unreal-icon" width="80" height="80" src="imgs/logos/unreal_5_logo.png"/>
-    <img alt="unity-icon" width="80" height="80" src="https://files.rubixdev.de/logos/unity.svg"/>
-    <img alt="gamemaker-icon" width="80" height="80" src="imgs/logos/gamemaker_logo.png"/>
-    <img alt="construct-icon" width="70" height="70" src="imgs/logos/construct_logo.png"/>
-    <img alt="godot-icon" width="80" src="https://godotengine.org/assets/press/icon_color.svg"/>
-    <img alt="renpy-icon" width="55" src="imgs/logos/renpy_logo.png"/>
+  <br>
+
+  <a href="https://mduca.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mduca/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:matheussantosduca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
-##
-<div align= "center"> 
-  <a href="https://mduca.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"</a>
-  <a href="https://www.linkedin.com/in/mduca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:matheussantosduca@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br>
+
+<div align="center">
+  <h3>👋 Hey, I'm Duca!</h3>
+  <p>
+    A <b>Game Developer</b> with 1 Year of Commercial Experience.<br>
+    Currently focused on <b>Unity (2D/3D) & C#</b>, ready to help you with your next project!
+  </p>
 </div>
 
-##
-<div align = "center">
-    <p>Hey, how’s it going? I’m Duca — a Game Developer with 1 Year of Experience in Commercial Projects, currently focused on Unity (2D / 3D) and C#, and ready to help you with your next project!<p>
-    <h3>🔻Below you can see some codes of the projects that I developed in my currently journey🔻</h3>
+<br>
+
+<div align="center">
+  <h3>🛠️ Main Stack</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>👾 Experience With</h3>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unreal-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat&logo=godot-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/GameMaker-000000?style=flat&logo=gamemaker&logoColor=white">
+  <img src="https://img.shields.io/badge/Construct_3-82C341?style=flat&logo=construct3&logoColor=white">
+  <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=flat&logo=renpy&logoColor=white">
+</div>
+
+<br><br>
+
+<div align="center">
+  <h3>🔻 Check out the source code of my projects below 🔻</h3>
 </div>
