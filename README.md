@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <h3>👋 Hey, I'm Duca!</h3>
+  <h3>👋 Hey, how’s it going? I’m Duca</h3>
   <p>
     A <b>Game Developer</b> with 1 Year of Experience in Commercial Projects.<br>
     Currently focused on <b>Unity (2D/3D) & C#</b>, ready to help you with your next project!
