@@ -49,8 +49,9 @@
   <img src="https://img.shields.io/badge/Ren'Py-FF7F7F?style=flat&logo=renpy&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white">
 </div>
 <!-- End Other Skills -->
 
