@@ -1,9 +1,7 @@
 <!-- Start Logo / Contacts -->
 <div align="center">
   <img alt="Duca Logo" width="320" src="gifs/banner-logo.gif"/>
-
-  <br>
-
+  <br><br>
   <a href="https://mduca.itch.io" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io"/>
   </a>
@@ -20,7 +18,7 @@
 
 <!-- Start Intro -->
 <div align="center">
-  <h3>👋 Hey, how’s it going? I’m Duca</h3>
+  <h3>👋 Hey, how's it going? I'm Duca</h3>
   <p>
     A <b>Game Developer</b> with +1 Year of Experience in Commercial Projects.<br>
     Currently focused on <b>Unity (2D/3D) & C#</b>, ready to help you with your next project!
@@ -54,6 +52,23 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white">
 </div>
 <!-- End Other Skills -->
+
+<br><br>
+
+<!-- Start Latest Project -->
+<div align="center">
+  <h3>🎮 Latest Project Preview</h3>
+  <p><i>Click the thumbnail to watch on YouTube!</i></p>
+  <br>
+  <a href="https://www.youtube.com/watch?v=geDr3BfSy4Q" target="_blank">
+    <img
+      src="https://img.youtube.com/vi/geDr3BfSy4Q/maxresdefault.jpg"
+      alt="▶ Watch on YouTube"
+      width="560"
+    />
+  </a>
+</div>
+<!-- End Latest Project -->
 
 <br><br>
 
