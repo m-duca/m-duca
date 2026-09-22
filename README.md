@@ -25,7 +25,7 @@
   Sou um desenvolvedor que está focando em <b>desenvolvimento Backend com Java e Spring</b>.
   <br>
   Utilizando minha experiência de <b>+1 ano em projetos comerciais no setor de Games</b>
-  serve como base para essa nova etapa da minha carreira.
+  como base para essa nova etapa da minha carreira.
 </p>
 <!-- End Intro -->
 
