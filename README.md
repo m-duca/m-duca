@@ -19,7 +19,7 @@
 
 <!-- Start Intro -->
 
-<h3 align="center">👋 Opa, tranquilo? Eu sou o Duca</h3>
+<h3 align="center">👋 Opa, tranquilo? Pode me chamar de Duca!</h3>
 
 <p align="center">
   Sou um desenvolvedor que está focando em <b>Backend com Java e Spring</b>.
