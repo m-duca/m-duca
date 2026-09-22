@@ -22,7 +22,7 @@
 <h3 align="center">👋 Opa, tranquilo? Eu sou o Duca</h3>
 
 <p align="center">
-  Sou um desenvolvedor que está focando em Backend com Java e Spring</b>.
+  Sou um desenvolvedor que está focando em <b>Backend com Java e Spring</b>.
   <br>
   Utilizando minha experiência de <b>+1 ano em projetos comerciais no setor de Games</b>
   como base para essa nova etapa da minha carreira.
