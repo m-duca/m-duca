@@ -24,7 +24,7 @@
 <p align="center">
   Sou um desenvolvedor que está focando em <b>Backend com Java e Spring</b>.
   <br>
-  Utilizando minha experiência de <b>+1 ano em projetos comerciais no setor de Games</b>
+  Utilizando minha experiência de <b>+2 anos em projetos comerciais no setor de Games</b>
   como base para essa nova etapa da minha carreira.
 </p>
 <!-- End Intro -->
