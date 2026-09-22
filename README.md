@@ -89,5 +89,5 @@
   <b>Acadêmicos</b>, <b>Game Jams</b> e <b>Protótipos / Demos</b>.
 </p>
 
-<h3 align="center">🔻 Confira os projetos abaixo 🔻</h3>
+<h3 align="center">🔻 Confira os repositórios abaixo 🔻</h3>
 <!-- End Projects -->
