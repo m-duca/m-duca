@@ -70,7 +70,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="Unity">
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unreal-engine&logoColor=white" alt="Unreal Engine">
   <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=flat&logo=godot-engine&logoColor=white" alt="Godot Engine">
